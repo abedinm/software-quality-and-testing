@@ -33,12 +33,24 @@ software-quality-and-testing/
 ├── practice/                  test yourself
 │   ├── 02_MOCK_EXAM.md                   40 MCQ + 20 T/F + 5 theory
 │   └── 03_ANSWER_KEY.md                  answers + model theory answers
-└── pdf/                       printable versions
-    ├── 1_SIMPLE_PLAIN_ENGLISH.pdf
-    ├── 2_EXAM_ANSWERS_WITH_EXAMPLES.pdf
-    ├── 3_EMERGENCY_1HR.pdf
-    └── 4_FULL_STUDY_PACK.pdf             everything in one file
+└── pdf/                       printable / phone-readable — one PDF per file
+    ├── notes/
+    │   ├── SIMPLE_PLAIN_ENGLISH.pdf
+    │   ├── EXAM_ANSWERS_WITH_EXAMPLES.pdf
+    │   └── 01_CHAPTER_NOTES.pdf
+    ├── quick-revision/
+    │   ├── 00_CRAM_SHEET.pdf
+    │   ├── EMERGENCY_1HR.pdf
+    │   ├── 06_MEMORIZE_THIS.pdf
+    │   ├── 05_CONFUSION_TABLE.pdf
+    │   └── 04_RAPID_FIRE.pdf
+    ├── practice/
+    │   ├── 02_MOCK_EXAM.pdf
+    │   └── 03_ANSWER_KEY.pdf
+    └── FULL_STUDY_PACK.pdf               everything in one file
 ```
+
+> The `pdf/` folder mirrors the markdown folders — every `.md` file has a matching PDF so you can read them on your phone or any device. The markdown files are kept for editing/viewing on GitHub.
 
 ---
 
